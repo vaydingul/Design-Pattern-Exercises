@@ -16,7 +16,7 @@ public:
     virtual void Run() = 0;
 };
 
-#include "_RunningBehavior.cpp"
+#include "../source/_RunningBehavior.cpp"
 
 
 #endif

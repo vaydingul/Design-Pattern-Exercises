@@ -2,7 +2,7 @@
  * @ Author: vaydingul
  * @ Create Time: 2020-09-08 21:00:19
  * @ Modified by: vaydingul 
- * @ Modified time: 2020-09-08 21:33:53
+ * @ Modified time: 2020-09-10 21:58:14
  */
 
 
@@ -24,6 +24,6 @@ public:
     ~YoungAsian();
 };
 
-#include "YoungAsian.cpp"
+#include "../source/YoungAsian.cpp"
 
 #endif

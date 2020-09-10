@@ -2,7 +2,7 @@
  * @ Author: vaydingul
  * @ Create Time: 2020-09-08 20:32:21
  * @ Modified by: vaydingul 
- * @ Modified time: 2020-09-08 21:49:16
+ * @ Modified time: 2020-09-10 21:57:54
  */
 
 #ifndef _HUMAN
@@ -19,6 +19,6 @@ public:
     virtual void Speak();
 };
 
-#include "_Human.cpp"
+#include "../source/_Human.cpp"
 
 #endif
